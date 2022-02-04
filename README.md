@@ -9,3 +9,5 @@ and a practical guide to locally deploy a high-productivity cluster system with
 - **Condor**
 
 The implementations were made for an exam projects for the High Performance Computing Course.
+
+In the **notes** directory there is a guide taken during the HPC course
